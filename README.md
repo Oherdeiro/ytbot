@@ -54,10 +54,21 @@ Antes de executar o projeto, certifique-se de ter os seguintes requisitos instal
 
 A aplicação estará disponível em http://127.0.0.1:9000.
 
-Uso
-Adicione o número do WhatsApp do Twilio aos seus contatos.
-Envie uma mensagem para o número do WhatsApp.
-Siga as instruções fornecidas pelo bot para se cadastrar e utilizar as funcionalidades.
+# Uso
+- Adicione o número do WhatsApp do Twilio aos seus contatos.
+- Envie uma mensagem para o número do WhatsApp.
+- Siga as instruções fornecidas pelo bot para se cadastrar e utilizar as funcionalidades.
+
+# Estrutura do Projeto
+
+   ```bash
+      whatsapp_youtube_to_mp3/
+      │
+      ├── app.py                   # Código principal da aplicação
+      ├── user_names.json          # Armazenamento dos nomes dos usuários
+      ├── requirements.txt         # Dependências do projeto
+      └── files/                   # Diretório onde os arquivos MP3 serão armazenados
+
 
 
 
