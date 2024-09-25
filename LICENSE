@@ -1,21 +1,25 @@
 MIT License
 
-Copyright (c) 2024 wbt
+Copyright (c) 
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+3. Any modifications or derivative works of the Software must also include the same license, allowing others to use, modify, and distribute the changes under the same terms as this license.
+
+4. The software may include third-party libraries or tools, which may be governed by their own licenses. The user is responsible for ensuring compliance with these additional license terms when using the Software.
+
+5. In case of any legal disputes arising from the use of the Software, the user agrees to submit to the jurisdiction of the courts located within [your jurisdiction] and to resolve any disputes in accordance with the laws of [your jurisdiction].
+
+6. This license does not grant any rights to the trademarks or other intellectual property of the copyright holder, nor does it grant permission to use the name or likeness of the copyright holder without prior written consent.
+
+7. Any usage of the Software in a manner that violates any applicable laws or regulations is strictly prohibited. The user assumes full responsibility for compliance with all relevant laws and regulations in connection with the use of the Software.
+
+8. This license constitutes the entire agreement between the parties regarding the subject matter hereof and supersedes all prior understandings or agreements, whether written or oral, regarding such subject matter.
+
+9. If any provision of this license is found to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+10. This license may be amended or modified only by a written agreement signed by both parties.
