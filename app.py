@@ -9,6 +9,9 @@ import yt_dlp
 
 app = Flask(__name__)
 
+account_sid = ''
+auth_token = ''
+twilio_whatsapp_number = ''
 
 
 client = Client(account_sid, auth_token)
