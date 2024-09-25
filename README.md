@@ -1,3 +1,6 @@
+# Licença
+Este projeto está licenciado sob a MIT License.
+
 # WhatsApp YouTube to MP3 Downloader
 
 Este projeto é uma aplicação Flask que permite aos usuários baixar vídeos do YouTube e convertê-los em arquivos MP3 via WhatsApp. Utiliza a API do Twilio para interagir com os usuários e o `yt-dlp` para realizar o download dos vídeos.
@@ -62,16 +65,14 @@ A aplicação estará disponível em http://127.0.0.1:9000.
 # Estrutura do Projeto
 
    ```bash
+
       whatsapp_youtube_to_mp3/
       │
       ├── app.py                   # Código principal da aplicação
       ├── user_names.json          # Armazenamento dos nomes dos usuários
       ├── requirements.txt         # Dependências do projeto
       └── files/                   # Diretório onde os arquivos MP3 serão armazenados
-
-
-
-
+   ```
 
 
      
